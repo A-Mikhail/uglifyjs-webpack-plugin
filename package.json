@@ -42,7 +42,7 @@
     "webpack": "^4.3.0"
   },
   "dependencies": {
-    "cacache": "^11.2.0",
+    "cacache": "^15.0.0",
     "find-cache-dir": "^2.0.0",
     "schema-utils": "^1.0.0",
     "serialize-javascript": "^1.4.0",
